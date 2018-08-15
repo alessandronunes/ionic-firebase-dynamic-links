@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "2594910225",
+    "firebase_url": "https://santander-6c0a8.firebaseio.com",
+    "project_id": "santander-6c0a8",
+    "storage_bucket": "santander-6c0a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2594910225:android:764d2cb7da3280eb",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2594910225-vab9gi5u5i7hlh75ectvb1pncae5i2ph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF7jFR5gKd_RADpOcwjEJ2AUuPOjGB1oE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
